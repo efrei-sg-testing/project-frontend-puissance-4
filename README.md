@@ -9,6 +9,7 @@ Le jeu doit comptabiliser les victoires des joueurs jaunes et rouges au cours du
 - React
 - Jest, (Cypress)
 
+- Installer les dépendances `npm install`
 - Lancer le projet `npm start`
 - Lancer les tests `npm test`
 - Ouvrir cypress `npx cypress open`
