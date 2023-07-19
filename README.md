@@ -8,7 +8,6 @@ Le jeu doit comptabiliser les victoires des joueurs jaunes et rouges au cours du
 
 - React
 - Jest, (Cypress)
-- LocalStorage
 
 - Lancer le projet `npm start`
 - Lancer les tests `npm test`
@@ -23,7 +22,7 @@ Le jeu doit comptabiliser les victoires des joueurs jaunes et rouges au cours du
 
 ## Fonctionnalités supplémentaires (idées, n'hésitez pas à implémenter les votres)
 
-- Se souvenir de l'état de la partie en cas de rechargement de la page
+- Se souvenir de l'état de la partie en cas de rechargement de la page (avec LocalStorage)
 - Sauvegarde de l'état de la partie dans une chaine de caractère ou dans l'url
 - Amélioration de l'interface graphique pour la rendre la plus agréable et esthétique possible
 - Multijoueur sur le réseau
